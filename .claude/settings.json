@@ -1,7 +1,8 @@
 {
   "permissions": {
     "allow": [
-      "mcp__Windsor_ai"
+      "mcp__Windsor_ai",
+      "mcp__claude_ai_Windsor_ai"
     ]
   }
 }
